@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/game.fta/static/css/main.4033c810.css",
-    "main.js": "/game.fta/static/js/main.81b76833.js",
+    "main.css": "/game.fta/static/css/main.1ec57c3e.css",
+    "main.js": "/game.fta/static/js/main.7c9d9c13.js",
     "static/js/453.732dcf4e.chunk.js": "/game.fta/static/js/453.732dcf4e.chunk.js",
     "index.html": "/game.fta/index.html",
-    "main.4033c810.css.map": "/game.fta/static/css/main.4033c810.css.map",
-    "main.81b76833.js.map": "/game.fta/static/js/main.81b76833.js.map",
+    "main.1ec57c3e.css.map": "/game.fta/static/css/main.1ec57c3e.css.map",
+    "main.7c9d9c13.js.map": "/game.fta/static/js/main.7c9d9c13.js.map",
     "453.732dcf4e.chunk.js.map": "/game.fta/static/js/453.732dcf4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4033c810.css",
-    "static/js/main.81b76833.js"
+    "static/css/main.1ec57c3e.css",
+    "static/js/main.7c9d9c13.js"
   ]
 }
